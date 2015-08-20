@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>096B2933-3A79-47AE-B2C1-0955F54400BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>K9-Chemistry</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F4E2C700223A68A4ECA1B3C264C3EB937AE2C664</key>
+		<string>https://github.com/shon3005/Capstone-Project-master.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Capstone-Project-master/K9-Chemistry/K9-Chemistry.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F4E2C700223A68A4ECA1B3C264C3EB937AE2C664</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shon3005/Capstone-Project-master.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F4E2C700223A68A4ECA1B3C264C3EB937AE2C664</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4E2C700223A68A4ECA1B3C264C3EB937AE2C664</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Capstone-Project-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
